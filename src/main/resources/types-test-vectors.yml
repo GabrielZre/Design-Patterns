@@ -1,0 +1,10 @@
+testVectors:
+  SportCarExample:
+    description: "example of sport car"
+    type: "fast car"
+    maxSpeed: "250"
+
+  LorryExample:
+    description: "example of lorry"
+    type: "slow car"
+    maxSpeed: "100"
